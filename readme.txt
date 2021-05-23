@@ -1,5 +1,9 @@
 Git is a distributed version control system.
+<<<<<<< HEAD
 Git is free software under the GPL.
+=======
+Git is aaa free software under the GPL.
+>>>>>>> 5ce0a03... add bug branch
 Git has a mutable index called stage.
 Git has a mutable index called stage.
 Git tracks changes of files and and .
