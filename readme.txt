@@ -6,3 +6,4 @@ Git tracks changes of files and and .
 My stupid boss still prefers SVN.
 creating a new branch is quick
 creating a new branch is quick and smiple.
+Creating a new branch is quick & simple.
