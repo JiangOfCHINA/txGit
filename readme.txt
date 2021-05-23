@@ -1,6 +1,10 @@
 Git is a distributed version control system.
 <<<<<<< HEAD
+<<<<<<< HEAD
 Git is free software under the GPL.
+=======
+Git is aaa free software under the GPL.
+>>>>>>> 5ce0a03... add bug branch
 =======
 Git is aaa free software under the GPL.
 >>>>>>> 5ce0a03... add bug branch
